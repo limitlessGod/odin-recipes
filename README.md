@@ -1,1 +1,2 @@
 # odin-recipes
+The following project is a website that consists of a main index page that links to several other pages which contain various recipes. The aim of this project is to demonstrate the HTML knowledge that the creator has accumulated over the course of the past week studying the Odin Project. Upon completion links will be properly anchored into the site,images will be embedded and there will be proper usage of all HTML elements.
